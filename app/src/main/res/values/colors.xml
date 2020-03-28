@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fc9a31</color>
+    <color name="colorPrimaryDark">#c9d700</color>
+    <color name="colorAccent">#fc9a31</color>
+
+
+    <color name="tblSignUp">#EDFE01</color>
+    <color name="tblSignIn">#CBC61E</color>
+    <color name="overlayNavigasi1">#b3ffb730</color>
+    <color name="overlayNavigasi2">#b3fc9a31</color>
+</resources>

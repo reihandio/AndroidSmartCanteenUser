@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "359133359805",
+    "firebase_url": "https://androidsmartkantin-883d8.firebaseio.com",
+    "project_id": "androidsmartkantin-883d8",
+    "storage_bucket": "androidsmartkantin-883d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359133359805:android:2653e7a590c6e7b07d91d4",
+        "android_client_info": {
+          "package_name": "reihandio.dev.androidsmartkantin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359133359805-qsuasistho4u097fq2kf3ue03h22jmvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "reihandio.dev.androidsmartkantin",
+            "certificate_hash": "6b878293f8a9811eacd8308090ea19f76895ab08"
+          }
+        },
+        {
+          "client_id": "359133359805-h95tkra6km6ubt1vh2i6ubnrfsusjukd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmXs7mml13q4mtyfiv4LkgxcxYX6eqmr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359133359805-h95tkra6km6ubt1vh2i6ubnrfsusjukd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
